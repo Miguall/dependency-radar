@@ -1,0 +1,1 @@
+Takes a public repository URL and returns a report on the security risk of its dependencies.
